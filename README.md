@@ -2,14 +2,12 @@
 
 The official token registry for the MegaETH ecosystem. This repository maintains a curated list of ERC-20 tokens deployed on MegaETH and their corresponding Ethereum mainnet addresses for bridging.
 
-Built following the [Uniswap Token List](https://uniswap.org/blog/token-lists) standard.
-
 ## Supported Chains
 
-| Chain | Chain ID | Type |
-|-------|----------|------|
-| Ethereum | 1 | L1 |
-| MegaETH | 4326 | L2 |
+| Chain    | Chain ID | Type |
+| -------- | -------- | ---- |
+| Ethereum | 1        | L1   |
+| MegaETH  | 4326     | L2   |
 
 ## Adding a Token
 
@@ -42,6 +40,7 @@ Built following the [Uniswap Token List](https://uniswap.org/blog/token-lists) s
 - **Bridged token**: Has `bridge` field with the bridge contract address
 
 Example for a bridged token on MegaETH:
+
 ```json
 {
   "megaeth": {
