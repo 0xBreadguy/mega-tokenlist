@@ -13,9 +13,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKENLIST_SECRET }}
 
       - uses: actions/setup-node@v4
         with:
+          token: ${{ secrets.TOKENLIST_SECRET }}
           node-version: '20'
 
       - name: Install dependencies
