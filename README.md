@@ -1,6 +1,8 @@
 # MegaETH Token List
 
-A minimized token list repository for MegaETH, following the [Uniswap Token List](https://uniswap.org/blog/token-lists) standard.
+The official token registry for the MegaETH ecosystem. This repository maintains a curated list of ERC-20 tokens deployed on MegaETH and their corresponding Ethereum mainnet addresses for bridging.
+
+Built following the [Uniswap Token List](https://uniswap.org/blog/token-lists) standard.
 
 ## Supported Chains
 
