@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-01-06T12:13:26.645Z",
+  "timestamp": "2026-01-06T12:22:40.156Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -20,7 +20,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc3",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
