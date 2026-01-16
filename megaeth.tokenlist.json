@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-01-16T16:30:25.614Z",
+  "timestamp": "2026-01-16T16:35:03.861Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,7 +14,9 @@
       "symbol": "CUSD",
       "decimals": 18,
       "extensions": {
-        "isNative": true
+        "isNative": false,
+        "bridgeAddress": "0xA62571EbdFfAbC3051a2e5B9e1f57b23D830c8Fd",
+        "bridgeType": "canonical"
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/CUSD/logo.svg"
     },
