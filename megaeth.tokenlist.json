@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-01-15T23:46:35.969Z",
+  "timestamp": "2026-01-16T16:10:31.371Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -53,6 +53,17 @@
     },
     {
       "chainId": 4326,
+      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "extensions": {
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/BTC.b/logo.svg"
+    },
+    {
+      "chainId": 4326,
       "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
       "name": "Cap USD",
       "symbol": "CUSD",
@@ -83,6 +94,17 @@
         "isNative": true
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/USDM/logo.png"
+    },
+    {
+      "chainId": 4326,
+      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "extensions": {
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/USDT0/logo.png"
     },
     {
       "chainId": 4326,
