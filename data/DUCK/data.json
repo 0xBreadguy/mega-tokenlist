@@ -1,0 +1,10 @@
+{
+  "name": "Duck",
+  "symbol": "DUCK",
+  "decimals": 18,
+  "tokens": {
+    "megaeth": {
+      "address": "0x021ee124cF23D302A7f725AE7a01B77A8ce9782B"
+    }
+  }
+}
