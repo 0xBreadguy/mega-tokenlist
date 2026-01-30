@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-01-23T02:12:09.142Z",
+  "timestamp": "2026-01-30T02:22:29.124Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -43,6 +43,19 @@
         "bridgeType": "canonical"
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/ezETH/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "decimals": 18,
+      "extensions": {
+        "isNative": false,
+        "bridgeAddress": "0x85d456B2DfF1fd8245387C0BfB64Dfb700e98Ef3",
+        "bridgeType": "canonical"
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/rsETH/logo.svg"
     },
     {
       "chainId": 1,
@@ -171,6 +184,17 @@
     },
     {
       "chainId": 4326,
+      "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
+      "name": "KelpDao Restaked ETH",
+      "symbol": "rsETH",
+      "decimals": 18,
+      "extensions": {
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/rsETH/logo.svg"
+    },
+    {
+      "chainId": 4326,
       "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
       "name": "Staked Cap USD",
       "symbol": "STCUSD",
@@ -232,6 +256,17 @@
         "isNative": true
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/WETH/logo.svg"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x4Fc44BE15e9B6E30C1E774E2C87A21D3E8b5403F",
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "decimals": 18,
+      "extensions": {
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/wrsETH/logo.svg"
     },
     {
       "chainId": 4326,
