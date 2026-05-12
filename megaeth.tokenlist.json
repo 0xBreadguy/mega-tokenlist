@@ -1,6 +1,6 @@
 {
   "name": "MegaETH Token List",
-  "timestamp": "2026-05-12T06:42:23.089Z",
+  "timestamp": "2026-05-12T06:44:46.139Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -371,6 +371,19 @@
         "isOFT": "unknown"
       },
       "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/MegaSIR/logo.svg"
+    },
+    {
+      "chainId": 4326,
+      "address": "0x2F55e14F0b2B2118d2026d20Ad2C39EAcBdCAc47",
+      "name": "NX Terminal Token",
+      "symbol": "NXT",
+      "decimals": 18,
+      "extensions": {
+        "isOrigin": true,
+        "mechanism": "native",
+        "isOFT": "unknown"
+      },
+      "logoURI": "https://raw.githubusercontent.com/megaeth-labs/mega-tokenlist/main/data/NXT/logo.svg"
     },
     {
       "chainId": 4326,
